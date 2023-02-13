@@ -1,7 +1,9 @@
+import Button from "../components/ui/Button";
+
 const Home = () => {
 	return (
 		<div className="flex">
-			<h1>hello</h1>
+			<Button>hello</Button>
 		</div>
 	);
 };
