@@ -2,7 +2,8 @@ import Button from "../components/ui/Button";
 
 const Home = () => {
 	return (
-		<div className="flex">
+		<div>
+			<Button>hello</Button>
 			<Button>hello</Button>
 		</div>
 	);
